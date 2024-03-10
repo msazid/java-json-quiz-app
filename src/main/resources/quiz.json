@@ -1,0 +1,162 @@
+[
+  {
+    "answerkey": 2,
+    "option 1": "Java",
+    "option 2": "Python",
+    "option 3": "C++",
+    "option 4": "JavaScript",
+    "question": "Which programming language is known for its readability and simplicity?"
+  },
+  {
+    "answerkey": 4,
+    "option 1": "Mount Everest",
+    "option 2": "K2",
+    "option 3": "Kangchenjunga",
+    "option 4": "Makalu",
+    "question": "Which is the fourth highest mountain in the world?"
+  },
+  {
+    "answerkey": 1,
+    "option 1": "Albert Einstein",
+    "option 2": "Isaac Newton",
+    "option 3": "Galileo Galilei",
+    "option 4": "Stephen Hawking",
+    "question": "Who developed the theory of relativity?"
+  },
+  {
+    "answerkey": 3,
+    "option 1": "Mona Lisa",
+    "option 2": "The Starry Night",
+    "option 3": "The Persistence of Memory",
+    "option 4": "Guernica",
+    "question": "Which painting is known for melting clocks?"
+  },
+  {
+    "answerkey": 2,
+    "option 1": "Amazon River",
+    "option 2": "Nile River",
+    "option 3": "Yangtze River",
+    "option 4": "Mississippi River",
+    "question": "Which is the longest river in the world?"
+  },
+  {
+    "answerkey": 4,
+    "option 1": "Beethoven",
+    "option 2": "Mozart",
+    "option 3": "Bach",
+    "option 4": "Chopin",
+    "question": "Who composed the Moonlight Sonata?"
+  },
+  {
+    "answerkey": 1,
+    "option 1": "Venus",
+    "option 2": "Mars",
+    "option 3": "Jupiter",
+    "option 4": "Saturn",
+    "question": "Which planet is known as the 'Evening Star' or 'Morning Star'?"
+  },
+  {
+    "answerkey": 3,
+    "option 1": "Eiffel Tower",
+    "option 2": "Leaning Tower of Pisa",
+    "option 3": "Great Wall of China",
+    "option 4": "Colosseum",
+    "question": "Which is the longest wall in the world?"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing"
+  },
+  {
+    "answerkey": 1,
+    "option 1": "Paris",
+    "option 2": "Rome",
+    "option 3": "Berlin",
+    "option 4": "London",
+    "question": "Which city is known as the 'City of Love'?"
+  },
+  {
+    "answerkey": 3,
+    "option 1": "Cheetah",
+    "option 2": "Lion",
+    "option 3": "Peregrine Falcon",
+    "option 4": "Kangaroo",
+    "question": "Which is the fastest bird in the world?"
+  },
+  {
+    "answerkey": 4,
+    "option 1": "Hawaii",
+    "option 2": "Bali",
+    "option 3": "Fiji",
+    "option 4": "Maldives",
+    "question": "Which is a popular honeymoon destination?"
+  },
+  {
+    "answerkey": 2,
+    "option 1": "Mona Lisa",
+    "option 2": "The Last Supper",
+    "option 3": "The Birth of Venus",
+    "option 4": "Starry Night",
+    "question": "Which painting is created by Leonardo da Vinci?"
+  },
+  {
+    "answerkey": 1,
+    "option 1": "Alberta",
+    "option 2": "Quebec",
+    "option 3": "Ontario",
+    "option 4": "British Columbia",
+    "question": "Which province is known for the Rocky Mountains in Canada?"
+  },
+  {
+    "answerkey": 3,
+    "option 1": "Brazil",
+    "option 2": "Argentina",
+    "option 3": "Chile",
+    "option 4": "Peru",
+    "question": "Which country has the longest coastline in South America?"
+  },
+  {
+    "answerkey": 2,
+    "option 1": "Cleopatra",
+    "option 2": "Hatshepsut",
+    "option 3": "Nefertiti",
+    "option 4": "Ramses II",
+    "question": "Which female pharaoh ruled ancient Egypt for around 20 years?"
+  },
+  {
+    "answerkey": 4,
+    "option 1": "Romeo and Juliet",
+    "option 2": "Macbeth",
+    "option 3": "Hamlet",
+    "option 4": "Othello",
+    "question": "Which Shakespearean play features the character Iago?"
+  },
+  {
+    "answerkey": 1,
+    "option 1": "Himalayas",
+    "option 2": "Andes",
+    "option 3": "Alps",
+    "option 4": "Rocky Mountains",
+    "question": "Which mountain range is the highest in the world?"
+  },
+  {
+    "answerkey": 3,
+    "option 1": "The Great Gatsby",
+    "option 2": "To Kill a Mockingbird",
+    "option 3": "1984",
+    "option 4": "Brave New World",
+    "question": "Which novel is written by George Orwell?"
+  }
+]
